@@ -1,0 +1,61 @@
+130|root@generic:/data/misc # ./BBC 2 4 15 6                                   
+Cook[2] cooked a burger!
+Cook[1] cooked a burger!
+Customer[1] comes!
+Cashier[1] responds!
+Cashier[1] serves the customer a burger!
+Cook[2] cooked a burger!
+Customer[2] comes!
+Cashier[2] responds!
+Cashier[2] serves the customer a burger!
+Cook[1] cooked a burger!
+Customer[3] comes!
+Cashier[3] responds!
+Cashier[3] serves the customer a burger!
+Cook[2] cooked a burger!
+Customer[4] comes!
+Cashier[4] responds!
+Cashier[4] serves the customer a burger!
+Cook[1] cooked a burger!
+Customer[5] comes!
+Cashier[1] responds!
+Cashier[1] serves the customer a burger!
+Customer[6] comes!
+Cashier[2] responds!
+Cashier[2] serves the customer a burger!
+Cook[2] cooked a burger!
+Customer[7] comes!
+Cashier[3] responds!
+Cashier[3] serves the customer a burger!
+Cook[1] cooked a burger!
+Customer[8] comes!
+Cashier[4] responds!
+Cashier[4] serves the customer a burger!
+Customer[9] comes!
+Cashier[1] responds!
+Customer[10] comes!
+Cashier[2] responds!
+Cook[2] cooked a burger!
+Cashier[1] serves the customer a burger!
+Customer[11] comes!
+Cashier[3] responds!
+Cook[1] cooked a burger!
+Cashier[2] serves the customer a burger!
+Customer[12] comes!
+Cashier[4] responds!
+Cook[2] cooked a burger!
+Customer[13] comes!
+Cashier[1] responds!
+Cashier[1] serves the customer a burger!
+Cook[1] cooked a burger!
+Cashier[4] serves the customer a burger!
+Customer[14] comes!
+Cashier[2] responds!
+Customer[15] comes!
+Cashier[1] responds!
+Cook[2] cooked a burger!
+Cook[1] cooked a burger!
+Cashier[1] serves the customer a burger!
+Cashier[3] serves the customer a burger!
+Cook[2] cooked a burger!
+Cashier[2] serves the customer a burger!
